@@ -9,14 +9,14 @@ template\bsp_main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
 template\bsp_main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 template\bsp_main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
 template\bsp_main.o: ../Drivers/CMSIS/Include/core_cm3.h
-template\bsp_main.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+template\bsp_main.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
 template\bsp_main.o: ../Drivers/CMSIS/Include/core_cmInstr.h
 template\bsp_main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 template\bsp_main.o: ../Drivers/CMSIS/Include/core_cmFunc.h
 template\bsp_main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
 template\bsp_main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
 template\bsp_main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-template\bsp_main.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+template\bsp_main.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
 template\bsp_main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
 template\bsp_main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
 template\bsp_main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h

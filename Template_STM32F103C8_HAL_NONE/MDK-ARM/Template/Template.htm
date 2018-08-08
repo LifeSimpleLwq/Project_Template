@@ -3,7 +3,7 @@
 <title>Static Call Graph - [Template\Template.axf]</title></head>
 <body><HR>
 <H1>Static Call Graph for image Template\Template.axf</H1><HR>
-<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 5060422: Last Updated: Wed Sep 20 16:32:34 2017
+<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 5060528: Last Updated: Wed Aug 08 09:46:08 2018
 <BR><P>
 <H3>Maximum Stack Usage =        132 bytes + Unknown(Cycles, Untraceable Function Pointers)</H3><H3>
 Call chain for Maximum Stack Depth:</H3>
@@ -311,10 +311,10 @@ Global Symbols
 <P><STRONG><a name="[47]"></a>BSP_Main</STRONG> (Thumb, 68 bytes, Stack size 8 bytes, bsp_main.o(i.BSP_Main))
 <BR><BR>[Stack]<UL><LI>Max Depth = 128<LI>Call Chain = BSP_Main &rArr; BSP_FLASHWrite &rArr; BSP_FLASHWrite_NoCheck &rArr; HAL_FLASH_Program &rArr; FLASH_WaitForLastOperation
 </UL>
-<BR>[Calls]<UL><LI><a href="#[48]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
-<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;BSP_FLASHWrite
+<BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;BSP_FLASHWrite
 <LI><a href="#[49]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;BSP_FLASHReadWord
 <LI><a href="#[4a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;BSP_Delay_us
+<LI><a href="#[48]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
 </UL>
 <BR>[Called By]<UL><LI><a href="#[35]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
 </UL>
@@ -354,9 +354,9 @@ Global Symbols
 <BR>[Calls]<UL><LI><a href="#[4d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GetTick
 <LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;FLASH_SetErrorCode
 </UL>
-<BR>[Called By]<UL><LI><a href="#[4c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_FLASHEx_Erase
+<BR>[Called By]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;BSP_FLASHWrite
+<LI><a href="#[4c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_FLASHEx_Erase
 <LI><a href="#[46]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_FLASH_Program
-<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;BSP_FLASHWrite
 </UL>
 
 <P><STRONG><a name="[4f]"></a>HAL_Delay</STRONG> (Thumb, 22 bytes, Stack size 16 bytes, stm32f1xx_hal.o(i.HAL_Delay))
