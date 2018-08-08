@@ -164,7 +164,7 @@ I (../Inc/gpio.h)(0x5B6A4411)
 I (..\BSP\BSP_Main.h)(0x5B6A4410)
 I (..\BSP\SYS.H)(0x5B6A4540)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -521,7 +521,7 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x5B6A4411)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x5B6A4411)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x5B6A4411)
 F (startup_stm32f103xb.s)(0x5B6A4411)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list startup_stm32f103xb.lst --xref -o template\startup_stm32f103xb.o --depend template\startup_stm32f103xb.d)
-F (..\BSP\BSP_Main.c)(0x5B6A518D)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\bsp_main.o --omf_browse template\bsp_main.crf --depend template\bsp_main.d)
+F (..\BSP\BSP_Main.c)(0x5B6A51FB)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\bsp_main.o --omf_browse template\bsp_main.crf --depend template\bsp_main.d)
 I (..\BSP\BSP_Main.h)(0x5B6A4410)
 I (..\BSP\SYS.H)(0x5B6A4540)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x5B6A4411)
@@ -551,7 +551,7 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x5B6A4411)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x5B6A4411)
 I (../Inc/usart.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -598,7 +598,7 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x5B6A4411)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x5B6A4411)
 I (../Inc/usart.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -646,7 +646,7 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x5B6A4411)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x5B6A4411)
 I (../Inc/usart.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -663,11 +663,11 @@ I (D:\Keil\ARM\ARMCC\include\signal.h)(0x588B8344)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\libc\libc_fdset.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtservice.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtm.h)(0x5A991478)
-F (..\README\README.TXT)(0x5B6A4411)()
+F (..\README\README.TXT)(0x5B6A5385)()
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\libcpu\arm\cortex-m3\context_rvds.S)(0x5A991478)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list context_rvds.lst --xref -o template\context_rvds.o --depend template\context_rvds.d)
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\libcpu\arm\cortex-m3\cpuport.c)(0x5A991478)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\cpuport.o --omf_browse template\cpuport.crf --depend template\cpuport.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -688,7 +688,7 @@ I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtm.h)(0x5A991478)
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\src\clock.c)(0x5A991478)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\clock.o --omf_browse template\clock.crf --depend template\clock.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rthw.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -709,7 +709,7 @@ I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtm.h)(0x5A991478)
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\src\components.c)(0x5A9A33B8)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\components.o --omf_browse template\components.crf --depend template\components.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rthw.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -729,7 +729,7 @@ I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtservice.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtm.h)(0x5A991478)
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\src\device.c)(0x5A991478)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\device.o --omf_browse template\device.crf --depend template\device.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -750,7 +750,7 @@ I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtm.h)(0x5A991478)
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\src\idle.c)(0x5A9A33B8)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\idle.o --omf_browse template\idle.crf --depend template\idle.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rthw.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -770,7 +770,7 @@ I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtservice.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtm.h)(0x5A991478)
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\src\ipc.c)(0x5A991478)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\ipc.o --omf_browse template\ipc.crf --depend template\ipc.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -792,7 +792,7 @@ I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rthw.h)(0x5A991478)
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\src\irq.c)(0x5A991478)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\irq.o --omf_browse template\irq.crf --depend template\irq.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rthw.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -812,7 +812,7 @@ I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtservice.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtm.h)(0x5A991478)
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\src\kservice.c)(0x5A9A33B8)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\kservice.o --omf_browse template\kservice.crf --depend template\kservice.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -834,7 +834,7 @@ I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rthw.h)(0x5A991478)
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\src\mem.c)(0x5A9A33B8)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\mem.o --omf_browse template\mem.crf --depend template\mem.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rthw.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -854,7 +854,7 @@ I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtservice.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtm.h)(0x5A991478)
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\src\object.c)(0x5A9A33B8)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\object.o --omf_browse template\object.crf --depend template\object.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -875,7 +875,7 @@ I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtm.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rthw.h)(0x5A991478)
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\src\scheduler.c)(0x5A9A33B8)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\scheduler.o --omf_browse template\scheduler.crf --depend template\scheduler.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -896,7 +896,7 @@ I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtm.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rthw.h)(0x5A991478)
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\src\thread.c)(0x5A9A33B8)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\thread.o --omf_browse template\thread.crf --depend template\thread.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -917,7 +917,7 @@ I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtm.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rthw.h)(0x5A991478)
 F (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\src\timer.c)(0x5A9A33B8)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\timer.o --omf_browse template\timer.crf --depend template\timer.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -939,7 +939,7 @@ I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rthw.h)(0x5A991478)
 F (RTE\RTOS\board.c)(0x5A967502)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ..\BSP -I ..\BSP\BSP_Drivers --C99-I.\RTE\RTOS-I.\RTE\_Template-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o template\board.o --omf_browse template\board.crf --depend template\board.d)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rthw.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtthread.h)(0x5A9A33B8)
-I (.\RTE\RTOS\rtconfig.h)(0x5B6A5147)
+I (.\RTE\RTOS\rtconfig.h)(0x5B6A5375)
 I (.\RTE\_Template\RTE_Components.h)(0x5B6A4411)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdebug.h)(0x5A9A33B8)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtdef.h)(0x5A9A3414)
@@ -957,4 +957,4 @@ I (D:\Keil\ARM\ARMCC\include\signal.h)(0x588B8344)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\libc\libc_fdset.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtservice.h)(0x5A991478)
 I (D:\Keil\ARM\PACK\rt-thread\rtthread\3.0.3\include\rtm.h)(0x5A991478)
-F (RTE\RTOS\rtconfig.h)(0x5B6A5147)()
+F (RTE\RTOS\rtconfig.h)(0x5B6A5375)()
